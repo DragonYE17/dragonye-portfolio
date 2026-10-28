@@ -2,24 +2,24 @@
 
 Static GitHub Pages site. Image-first framework for commercial CGI. Every frame is an empty placeholder (`Image coming soon` plus an aspect hint). No live case studies yet.
 
-The page at `work/example.html` (**Selected work**) is an example image sequence, not a published project. Visible copy does not name a client, employer, or model.
+Home is an image archive. `work/example.html` (**Project 01**) is an example sequence, not a published project. Other rows are empty slots (`Project 02`–`Project 08`). Visible copy does not name a client, employer, or model.
 
-English is primary. Chinese sits underneath as a secondary line.
+Studio (`about.html`) and Contact are secondary. English is primary.
 
 ## Pages
 
 | Page | Path |
 | --- | --- |
-| Home | `index.html` |
-| About | `about.html` |
+| Archive | `index.html` |
+| Studio | `about.html` |
 | Contact | `contact.html` |
-| Example case | `work/example.html` |
+| Example sequence | `work/example.html` |
 
 GitHub Pages serves this repo from the `main` branch root: <https://dragonye17.github.io/dragonye-portfolio/>. A pull request does not change that site until it is merged.
 
 ## 说明
 
-图像优先的静态作品集框架。图片均为空占位。`work/example.html`（Selected work）是示例图序，不是已发布案例。页面文案不出现客户、雇主或车型名称。合并到 `main` 之前，线上站点不会变。
+首页是图像列表。`work/example.html`（Project 01）是示例图序，不是已发布案例。其余为 Project 02–08 空位。页面文案不出现客户、雇主或车型名称。合并到 `main` 之前，线上站点不会变。
 
 ## Drop in an image
 
