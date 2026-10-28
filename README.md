@@ -2,7 +2,7 @@
 
 Static GitHub Pages site. Image-first framework for commercial CGI. Every frame is an empty placeholder (`Image coming soon` plus an aspect hint). No live case studies yet.
 
-The page at `work/example.html` (**A8 PRO MAX — Launch KV**) is a labeled example template, not a published project.
+The page at `work/example.html` (**Selected work**) is an example image sequence, not a published project. Visible copy does not name a client, employer, or model.
 
 English is primary. Chinese sits underneath as a secondary line.
 
@@ -19,7 +19,7 @@ GitHub Pages serves this repo from the `main` branch root: <https://dragonye17.g
 
 ## 说明
 
-图像优先的静态作品集框架。图片均为空占位。`work/example.html`（A8 PRO MAX — Launch KV）是示例模板，不是已发布案例。合并到 `main` 之前，线上站点不会变。
+图像优先的静态作品集框架。图片均为空占位。`work/example.html`（Selected work）是示例图序，不是已发布案例。页面文案不出现客户、雇主或车型名称。合并到 `main` 之前，线上站点不会变。
 
 ## Drop in an image
 
