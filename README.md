@@ -2,7 +2,7 @@
 
 Static GitHub Pages site. Image-first framework for commercial CGI. Every frame is an empty placeholder (`Image coming soon` plus an aspect hint). No live case studies yet.
 
-Home is an image archive. `work/example.html` (**Project 01**) is an example sequence, not a published project. Other rows are empty slots (`Project 02`–`Project 08`). Visible copy does not name a client, employer, or model.
+Home is an image archive: a name lockup, then alternating wide and narrow rows (`Project 01`–`Project 08`). `work/example.html` is an example sequence — full-bleed hero, a thin title, then inset image bands. It is not a published project. Visible copy does not name a client, employer, or model.
 
 Studio (`about.html`) and Contact are secondary. English is primary.
 
